@@ -1,0 +1,26 @@
+h4
+{
+    color: #e6ffff;
+}
+.navbar
+{
+    background-color: #002233;
+
+}
+button {
+    background-color: #008080;
+    margin: 4px 2px;
+    cursor: pointer;
+    vertical-align: bottom;
+    color: white;
+    padding: 6px;
+    margin: 4px 2px;
+    border: solid #008080 1px;
+}
+.ime
+{
+    display: inline;
+    color: aliceblue;
+    vertical-align: bottom;
+
+}
