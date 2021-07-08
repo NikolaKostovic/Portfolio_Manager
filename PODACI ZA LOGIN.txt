@@ -1,0 +1,7 @@
+Admin podaci: 
+Username: nikola
+Password: nikola
+
+Skripta za bazu je  project_manager.sql
+U fajlu db_connection.php se nalazi kod za konekciju sa bazom.
+U fajlu e_mail.php se nalaze podaci za mailtrap.
